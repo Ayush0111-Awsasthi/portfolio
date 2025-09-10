@@ -2,7 +2,7 @@ import React from "react";
 import ProjectCard from "./ProjectCard";
 import { motion } from "framer-motion";
 
-import portfolioImage from "../../assets/portfolio.jpeg";
+import portfolioImage from "../../assets/Portfolio.jpeg";
 import AmazonImg from "../../assets/AmazonImg.png";
 import AppBackened from "../../assets/AppBackened.jpg";
 
